@@ -1,60 +1,38 @@
-### DATA CLEANING AND VISUALIZATION PROJECT
+DATA CLEANING AND VISUALIZATION PROJECT
 
 
-
-DESCRIPTION:
-
+📌 Description
 This project focuses on cleaning raw data and extracting meaningful insights using Python.
 
+🎯 Objectives
+-> Handle missing values
+-> Remove duplicate records
+-> Clean and format data
+-> Perform basic data analysis
+-> Generate visualizations
 
+🛠️ Tools & Technologies
+-> Python
+-> Pandas
+-> Matplotlib
 
-OBJECTIVES:
+📂 Files in this Repository
+- main.py → Python script for data cleaning and visualization
+- data.csv → Raw dataset
+- output.pdf → Final output/report
 
-\-> Handle missing values  
+▶️ How to Run
+1. Install Python
+2. Install required libraries:
+   pip install pandas matplotlib
+3. Run the script:
+   python main.py
 
-\-> Perform data analysis  
+ 📊 Output
+-> Cleaned dataset
+-> Graphs / Visualizations
+-> Final report (PDF)
 
-\-> Create visualizations  
-
-
-
-TOOLS USED:
-
-\-> Python
-
-\-> Pandas  
-
-\-> Matplotlib  
-
-\-> Seaborn  
-
-
-
-STEPS PERFORMED:
-
-1\. Loaded dataset (data.csv)  
-
-2\. Checked missing values  
-
-3\. Cleaned data using forward fill / mean  
-
-4\. Analyzed dataset  
-
-5\. Visualized data using graphs  
-
-
-
-OUTPUT:
-
-\-> Cleaned dataset  
-
-\-> Statistical summary  
-
-\-> Graphs like histogram and bar chart  
-
-
-
-CONCLUSION:
-
-This project helps in understanding data preprocessing and visualization techniques.
+📎 Conclusion
+This project demonstrates basic data cleaning techniques and visualization using Python.
 
