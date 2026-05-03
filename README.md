@@ -1,6 +1,6 @@
 Data Cleaning and Visualization Project
 
-📌 Description
+📌 Description:
 This project focuses on cleaning raw data and extracting meaningful insights using Python.
 
 🎯 Objectives
@@ -32,5 +32,5 @@ This project focuses on cleaning raw data and extracting meaningful insights usi
 - Graphs / Visualizations
 - Final report (PDF)
 
-📎 Conclusion
+📎 Conclusion:
 This project demonstrates basic data cleaning techniques and visualization using Python.
